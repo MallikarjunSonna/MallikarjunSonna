@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Mallikarjun 👋
 
-<!--
-**MallikarjunSonna/MallikarjunSonna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer focused on building Agentic AI systems, Multi-Agent workflows, and RAG-based applications using LangChain, LangGraph, and Python.
 
-Here are some ideas to get you started:
+## Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Agentic AI Systems
+* Multi-Agent Orchestration
+* LangGraph Workflows
+* RAG Pipelines
+* LLM-powered Applications
+* AI Backend Engineering
+
+## Tech Stack
+
+Python • LangChain • LangGraph • FastAPI • Streamlit • FAISS • Vector Databases • REST APIs • Hugging Face • Generative AI • RAG
+
+## Connect With Me
+
+LinkedIn: linkedin.com/in/mallikarjuncs
+
