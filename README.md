@@ -38,4 +38,5 @@ LangChain • LangGraph • RAG • Hugging Face • FAISS • Vector Databases 
 
 ## 🌐 Connect With Me
 
-LinkedIn → linkedin.com/in/mallikarjuncs
+* LinkedIn: [linkedin.com/in/mallikarjuncs](https://linkedin.com/in/mallikarjuncs)
+
