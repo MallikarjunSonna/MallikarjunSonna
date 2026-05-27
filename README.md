@@ -1,29 +1,25 @@
 # Hey, I'm Mallikarjun 👋
 
-AI Engineer focused on building Agentic AI systems, Multi-Agent workflows, and RAG-powered applications using LangChain, LangGraph, and Python.
+I'm an AI Engineer currently working on Agentic AI systems, multi-agent workflows, and RAG-based applications using LangChain, LangGraph, and Python.
 
-## What I Work On
+Over the past few months, I’ve been spending most of my time building AI workflows, orchestration systems, and backend integrations focused on practical, real-world AI use cases.
 
-* Agentic AI Systems
-* Multi-Agent Orchestration
-* LangGraph Workflows
-* Retrieval-Augmented Generation (RAG)
-* LLM-powered Applications
-* AI Backend Engineering
+Lately, I’ve been exploring:
 
-## Tech Stack
-
-Python • LangChain • LangGraph • FastAPI • Streamlit • FAISS • Vector Databases • REST APIs • Hugging Face • Generative AI
-
-## Currently Exploring
-
-* Advanced Agent Architectures
+* Multi-Agent Architectures
 * Stateful AI Workflows
 * AI Orchestration Systems
-* Production-grade GenAI Applications
+* Production-ready GenAI Applications
+
+### Tech I work with
+
+Python • LangChain • LangGraph • FastAPI • Streamlit • RAG • FAISS • REST APIs • Hugging Face
+
+### Connect
+
+LinkedIn → [linkedin.com/in/mallikarjuncs](https://linkedin.com/in/mallikarjuncs)
 
 
-## 🌐 Connect With Me
 
-* LinkedIn: [linkedin.com/in/mallikarjuncs](https://linkedin.com/in/mallikarjuncs)
+
 
